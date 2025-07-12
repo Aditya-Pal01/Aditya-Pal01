@@ -1,3 +1,5 @@
+<img src="https://github.com/Aditya-Pal01/Aditya-Pal01/assets/122135135/2e59e0cd-ec70-4b37-80b9-5144d0e68df1" alt="Aditya Pal Banner" />
+
 <h1 align="center">Hi 👋, I'm Aditya Pal</h1>
 <p align="center">
   📍 Kanpur, Uttar Pradesh, India <br>
@@ -75,6 +77,11 @@ To obtain a challenging role in a forward-thinking tech organization where I can
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Pal01&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pal01&layout=compact&theme=tokyonight)
+
+---
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aditya-Pal01&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
