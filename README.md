@@ -1,4 +1,4 @@
-<img src="https://github.com/Aditya-Pal01/Aditya-Pal01/assets/122135135/2e59e0cd-ec70-4b37-80b9-5144d0e68df1" alt="Aditya Pal Banner" />
+<img src="banner.png" alt="Aditya Pal Banner" />
 
 <h1 align="center">Hi 👋, I'm Aditya Pal</h1>
 <p align="center">
