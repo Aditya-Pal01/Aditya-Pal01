@@ -1,5 +1,5 @@
-<img src="banner.png" alt="Aditya Pal Banner" />
-
+<!--<img src="banner.png" alt="Aditya Pal Banner" />
+-->
 <h1 align="center">Hi 👋, I'm Aditya Pal</h1>
 <p align="center">
   📍 Kanpur, Uttar Pradesh, India <br>
@@ -10,6 +10,24 @@
 
 ## 🚀 Objective
 To obtain a challenging role in a forward-thinking tech organization where I can leverage my technical skills, academic foundation, and hands-on experience to drive innovation, solve complex problems, and contribute to organizational success while continuously growing as a professional.
+
+---
+## 📊 GitHub Stats
+
+ ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Pal01&show_icons=true&theme=tokyonight)
+                                          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pal01&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Pal01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pal01&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pal01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -72,11 +90,6 @@ To obtain a challenging role in a forward-thinking tech organization where I can
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Pal01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pal01&layout=compact&theme=tokyonight)
 
 ---
 ## 🏅 GitHub Trophies
